@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    margin-top: 5%;
+    background-color: blueviolet;  
+    padding: 40px; 
+}
+.contact img{
+    padding-top: 70px;
+    padding-left: 10px;
+}
+.final_section{
+    display: flex;
+  }
+ .about h2{
+    color: blueviolet;
+ }
+  .bottom_section {
+    display: flex;
+    margin-left: 20%;
+  }
+  .contact {
+    background-color: white;
+  }
+  .about {
+    background-color:white;
+  }
+  .contact,
+  .about {
+    padding: 32px;
+    color: white;
+  }
+.about{
+    margin-right: 100px;
+}
